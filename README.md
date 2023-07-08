@@ -1,6 +1,6 @@
 # Landing Page Project
 
-## description
+## Description
 landing page project built in html , css and js Manipulating the DOM exercise.
 
 -A dynamic navigation menu as unordered list 
@@ -9,7 +9,7 @@ landing page project built in html , css and js Manipulating the DOM exercise.
 
 -The selected section will be highlighted 
 
-## tecs:
+## Technologies:
 1.HTMLS
 
 2.CSS3
